@@ -1,0 +1,1 @@
+This project requires me to create a webpage "from scratch". I will be using Chrome dev tools to pick elements from Google.com in an effort to recreate the webpage in a local HTML file.
